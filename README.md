@@ -71,9 +71,14 @@ The Olympics History Data Analysis project delves into historical Olympic data, 
 ### 19. Sport with Most Medals Won by India
 - **Question:** In which sport did India win the highest number of medals?
 
+
 ### 20. Breakdown of Hockey Medals Won by India
 - **Question:** Can you break down all Olympic games where India won medals in hockey?
 
 The Olympics History Data Analysis Project offers a thorough exploration of historical Olympic data, providing valuable insights into various aspects of Olympic events.
+
+##  Database and Tool
+* PostgreSQL
+* PgAdmin4
 
 
